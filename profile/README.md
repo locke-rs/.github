@@ -1,1 +1,1 @@
-> **locke.rs** is a security-oriented component of the [Rhodem Corporation](https://rhodem.com/)
+> **locke.rs** is a component of the [Rhodem Corporation](https://rhodem.com/), Check out our other projects [here](https://github.com/rhodem-labs).
